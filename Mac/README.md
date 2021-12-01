@@ -16,3 +16,9 @@ brew install docker
 brew cask install docker
 open /Applications/Docker.app
 ```
+
+# M1MAC
+
+- brewのインストール
+- dockerのインストール
+- losetta2のインストール
