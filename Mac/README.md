@@ -19,6 +19,20 @@ open /Applications/Docker.app
 
 # M1MAC
 
-- brewのインストール
-- dockerのインストール
-- losetta2のインストール
+以下をインストール
+- brew
+- docker
+- losetta2
+- fish
+- tmux
+
+# Vim
+
+以下をインストール
+- nvim
+- vim-plug
+
+別途作業
+- GoogleDriveからgithubの鍵をダウンロード
+- dotfilesから自分のvim設定等を持ってくる
+- dotfilesから自分のvim設定等を
