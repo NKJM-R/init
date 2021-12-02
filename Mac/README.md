@@ -27,6 +27,8 @@ open /Applications/Docker.app
 - tmux
 - slack
 - discord
+- line
+- tmuxinator
 
 # Vim
 
@@ -37,4 +39,6 @@ open /Applications/Docker.app
 別途作業
 - GoogleDriveからgithubの鍵をダウンロード
 - dotfilesから自分のvim設定等を持ってくる
-- dotfilesから自分のvim設定等を
+- ターミナルのデフォルト設定をfishに変更
+- dotfilesのupdate.shを実行
+- dotfilesに記載してある作業を行う
