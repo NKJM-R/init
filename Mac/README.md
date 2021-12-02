@@ -25,6 +25,8 @@ open /Applications/Docker.app
 - losetta2
 - fish
 - tmux
+- slack
+- discord
 
 # Vim
 
