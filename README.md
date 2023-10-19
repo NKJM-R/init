@@ -1,8 +1,8 @@
 # Install Application
 - Karabiner-Elements
-- Logi Option +
+- Logi Option Plus
 - Vscode
-- BetterTouchTool(ライセンスあり)
+- BetterTouchTool(GoogleDriveにライセンスあり)
 - AppCleaner
 - DBeaver
 - Docker
@@ -11,6 +11,8 @@
 - Steam
 - Alacrity
 - Discord
+- CleanMyMac X
+
 
 # Brew
 - neovim
