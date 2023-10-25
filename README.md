@@ -19,4 +19,5 @@
 - lazygit
 - tmux
 - fish
+- jq jsonのフォーマットに使用(:%!jq '.')
 
