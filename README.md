@@ -19,5 +19,5 @@
 - lazygit
 - tmux
 - fish
-- jq jsonのフォーマットに使用(:%!jq '.')
-
+- jq (jsonのフォーマットに使用`:%!jq '.'`)
+- vhs (Terminal Gif作成)
