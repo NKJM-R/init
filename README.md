@@ -20,4 +20,4 @@
 - tmux
 - fish
 - jq (jsonのフォーマットに使用`:%!jq '.'`)
-- vhs (Terminal Gif作成)
+- [vhs](https://github.com/charmbracelet/vhs)(Terminal Gif作成)
