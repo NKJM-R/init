@@ -19,6 +19,9 @@
 - lazygit
 - tmux
 - fish
+- starship
+- gh
+- fzf
 - jq (jsonのフォーマットに使用`:%!jq '.'`)
 - [vhs](https://github.com/charmbracelet/vhs)(Terminal Gif作成)
 
