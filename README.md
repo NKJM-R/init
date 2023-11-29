@@ -1,7 +1,7 @@
 # Install Application
-- Karabiner-Elements
-- Logi Option Plus
-- Vscode
+- Karabiner-Elements: https://karabiner-elements.pqrs.org/
+- Logi Options Plus: https://www.logicool.co.jp/ja-jp/software/logi-options-plus.html
+- Vscode: https://code.visualstudio.com/
 - BetterTouchTool(GoogleDriveにライセンスあり)
 - AppCleaner
 - DBeaver
